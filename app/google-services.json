@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "62340073597",
+    "firebase_url": "https://imagerecog-dd706.firebaseio.com",
+    "project_id": "imagerecog-dd706",
+    "storage_bucket": "imagerecog-dd706.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62340073597:android:e574d35489e33766",
+        "android_client_info": {
+          "package_name": "recog.com.imagerecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62340073597-247g8ehtv09bklvcu4kcfsus58ppg43p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "recog.com.imagerecognition",
+            "certificate_hash": "D765F761E231C8E711209346DBC5FF2E867EF28A"
+          }
+        },
+        {
+          "client_id": "62340073597-k8hb7shtsrt6qfc4reder7fletjlhj0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsh0QOXxSz3VeoC6nNiZKRHoe1oxl2FFI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62340073597-k8hb7shtsrt6qfc4reder7fletjlhj0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
